@@ -3,6 +3,7 @@
 This tool leverages OpenAI’s language models, vector search, and transcript analysis to make YouTube videos more accessible, searchable, and interactive—without watching the entire content.
 
 
+![YouTube Q&A RAG Screenshot](assets/screenshot.png)
 
 ## 🚀 Objective
 
