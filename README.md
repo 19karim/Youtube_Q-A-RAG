@@ -1,7 +1,7 @@
 # YouTube Q&A RAG Tool 🎥🤖
 
 Here’s how the Q&A tool looks in action:
-
+![YouTube Q&A RAG Screenshot](assets/screenshot.png)
 
 This tool leverages **OpenAI’s language models**, **vector search**, and **YouTube transcript analysis** to make videos more **accessible**, **searchable**, and **interactive**—without watching the entire video.
 
