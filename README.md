@@ -1,8 +1,8 @@
-# YouTube Q&A RAG Tool 🎥🤖
+## YouTube Q&A RAG
 
-This tool leverages **OpenAI’s language models**, **vector search**, and **YouTube transcript analysis** to make videos more **accessible**, **searchable**, and **interactive**—without watching the entire video.
+This tool leverages OpenAI’s language models, vector search, and transcript analysis to make YouTube videos more accessible, searchable, and interactive—without watching the entire content.
 
----
+
 
 ## 🚀 Objective
 
@@ -42,3 +42,6 @@ pip install -r requirements.txt
 
 # Set up environment variables
 cp .env.example .env  # or manually create .env
+=======
+
+
